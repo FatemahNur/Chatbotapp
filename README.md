@@ -27,7 +27,8 @@ JTextField inputField: Allows the user to type messages.
 JButton sendButton: Sends the user's message when clicked.
 Constructor: Sets up the GUI layout and initializes the components.
 
-# actionPerformed: Handles the send button click event, updates the chat area with the user's message, and generates the bot's response.
+# actionPerformed: 
+Handles the send button click event, updates the chat area with the user's message, and generates the bot's response.
 
 getBotResponse: Returns a predefined response based on the user's input.
 
